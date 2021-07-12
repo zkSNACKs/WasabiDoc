@@ -4,7 +4,7 @@
   "description": "Frequently asked questions regarding the introduction to Wasabi in general. This is the Wasabi documentation, an archive of knowledge about the open-source, non-custodial and privacy-focused Bitcoin wallet for desktop."
 }
 ---
-
+<div itemscope itemtype="https://schema.org/FAQPage">
 # Introduction to Wasabi
 
 ## The Basics
@@ -229,3 +229,4 @@ Wasabi runs in most operating systems with 64-bit architecture.
 For the complete list of all the officially supported operating systems, click [here](https://github.com/zkSNACKs/WalletWasabi/blob/master/WalletWasabi.Documentation/WasabiCompatibility.md#officially-supported-operating-systems).
 
 :::
+</div>

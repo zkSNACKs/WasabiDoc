@@ -4,7 +4,7 @@
   "description": "Frequently asked questions about the nuances of how to use Wasabi properly. This is the Wasabi documentation, an archive of knowledge about the open-source, non-custodial and privacy-focused Bitcoin wallet for desktop."
 }
 ---
-
+<div itemscope itemtype="https://schema.org/FAQPage">
 # Use of Wasabi
 
 ## Wallet Manager
@@ -1520,3 +1520,4 @@ It was [thought to be fixed](https://reddit.com/r/WasabiWallet/comments/c2hco8/a
 
 It ultimately got fixed in [v1.1.10](https://github.com/zkSNACKs/WalletWasabi/releases/tag/v1.1.10) by introducing an upgraded version of [BIP 158 block filters](https://github.com/bitcoin/bips/blob/master/bip-0158.mediawiki) and changing the wallet cache architecture.
 :::
+</div>
